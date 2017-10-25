@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dotos.github.io" resolutions="1x" timestamp="1508955296960">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dotos.github.io" resolutions="1x" timestamp="1508956018240">
   <folder name="css">
     <file name="site_global.css" crc="4233371317"/>
-    <file name="index.css" crc="3859476544" ref="index"/>
+    <file name="index.css" crc="229688885" ref="index"/>
     <file name="downlaods.css" crc="4249145781" ref="downlaods"/>
   </folder>
   <folder name="scripts">
@@ -49,7 +49,7 @@
     <file name="dotspace@2x.jpg" crc="4213381970" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dotspace@2x - copy.png" crc="3878917406" seo="true" ref="index">
+    <file name="dotspace@2x - copy.png" crc="276818801" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="29705874 (1).png" crc="397062076" seo="true" ref="index">
@@ -74,6 +74,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3830614993" seo="true" mt="1508955214083" redirect="true"/>
+  <file name="index.html" crc="122303999" seo="true" mt="1508955923613" redirect="true"/>
   <file name="downlaods.html" crc="380167107" seo="true" mt="1508870862610" redirect="true"/>
 </manifest>
