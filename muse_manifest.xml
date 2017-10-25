@@ -1,22 +1,21 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dotos.github.io" resolutions="1x" timestamp="1508957803528">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dotos.github.io" resolutions="1x" timestamp="1508958313753">
   <folder name="css">
     <file name="site_global.css" crc="4233371317"/>
-    <file name="index.css" crc="80492416" ref="index"/>
-    <file name="downlaods.css" crc="4249145781" ref="downlaods"/>
+    <file name="index.css" crc="465664137" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:downlaods"/>
-    <file name="museutils.js" crc="3803043152" ref="index:downlaods"/>
-    <file name="whatinput.js" crc="86476730" ref="index:downlaods"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:downlaods"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:downlaods"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index:downlaods"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
     <file name="pot.png" crc="3999226715" seo="true" ref="index">
@@ -74,6 +73,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4136562867" seo="true" mt="1508957767362" redirect="true"/>
-  <file name="downlaods.html" crc="380167107" seo="true" mt="1508870862610" redirect="true"/>
+  <file name="index.html" crc="4251075302" seo="true" mt="1508958302360" redirect="true"/>
 </manifest>

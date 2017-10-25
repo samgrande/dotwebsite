@@ -54,10 +54,4 @@
       <image:loc>http://dotos.github.io/images/newt%20-%20copy%20(4).png</image:loc>
     </image:image>
   </url>
-  <url>
-    <loc>http://dotos.github.io/downlaods.html</loc>
-    <lastmod>2017-10-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
 </urlset>
