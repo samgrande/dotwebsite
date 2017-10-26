@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dotos.github.io" resolutions="1x" timestamp="1509014321905">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dotos.github.io" resolutions="1x" timestamp="1509017937664">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="4157958692" ref="phone>index"/>
@@ -7,7 +7,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4233371317"/>
-    <file name="index.css" crc="4107570657" ref="index"/>
+    <file name="index.css" crc="418365976" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
@@ -23,22 +23,17 @@
     <file name="require.js" crc="4157109226" ref="index:phone>index"/>
   </folder>
   <folder name="images">
-    <file name="pot.png" crc="3999226715" seo="true" ref="index">
+    <file name="minimal.png" crc="250385498" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="minimal.png" crc="4073811275" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="powert.png" crc="4236093750" seo="true" ref="index:phone>index">
+    <file name="powert.png" crc="4236093750" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="screener_1508862245947.png" crc="293595066" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="screener_1508862181172.png" crc="341361698" seo="true" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="screener_1508862431143.png" crc="3997079911" seo="true" ref="index">
@@ -46,38 +41,29 @@
     </file>
     <file name="newt.png" crc="351506248" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="56621267-efficiency-icon-vector-flat-icon-isolated-on-the-white-background-editable-eps-file-vector-illustrat.png" crc="4205808216" seo="true" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="29705874 (1).png" crc="397062076" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="astro.png" crc="4285920107" seo="true" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="newt - copy (2).png" crc="3948057724" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="newt - copy (3).png" crc="4059277115" seo="true" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="newt - copy (5) - copy.png" crc="266987505" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="newt - copy (4) - copy.png" crc="3982866508" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="newt - copy (4).png" crc="279811494" seo="true" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="dotos.png" crc="533636129" seo="true" ref="index">
@@ -93,7 +79,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="planet2.png" crc="4228640976" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="back space.jpg" crc="294589902" ref="index"/>
@@ -112,6 +97,13 @@
     <file name="dotspace@2x - copy.png" crc="4283713827" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="favicon.ico" crc="4070957684" ref="index"/>
+    <file name="efficient.png" crc="4130414320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="powerfull.png" crc="4151753256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4110311254" seo="true" mt="1509014318270" redirect="true"/>
+  <file name="index.html" crc="4119090575" seo="true" mt="1509017933018" redirect="true"/>
 </manifest>

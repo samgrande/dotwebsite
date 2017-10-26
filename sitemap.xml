@@ -7,13 +7,7 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://dotos.github.io/phone/index.html"/>
     <image:image>
-      <image:loc>http://dotos.github.io/images/pot.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dotos.github.io/images/minimal.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dotos.github.io/images/powert.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dotos.github.io/images/screener_1508862245947.png</image:loc>
@@ -62,6 +56,12 @@
     </image:image>
     <image:image>
       <image:loc>http://dotos.github.io/images/back%20space1181x760.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dotos.github.io/images/efficient.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dotos.github.io/images/powerfull.png</image:loc>
     </image:image>
   </url>
 </urlset>
