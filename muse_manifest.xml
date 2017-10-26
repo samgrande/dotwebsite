@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dotos.github.io" resolutions="1x" timestamp="1509012512624">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dotos.github.io" resolutions="1x" timestamp="1509013071233">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="116477928" ref="phone>index"/>
+      <file name="index.css" crc="3995855925" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4217262765" seo="true" mt="1509012439127" redirect="true"/>
+    <file name="index.html" crc="4059908843" seo="true" mt="1509013000377" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4233371317"/>
@@ -116,5 +116,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4110311254" seo="true" mt="1509012508835" redirect="true"/>
+  <file name="index.html" crc="4110311254" seo="true" mt="1509013067081" redirect="true"/>
 </manifest>
