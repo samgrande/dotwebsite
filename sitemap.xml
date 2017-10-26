@@ -5,6 +5,7 @@
     <lastmod>2017-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://dotos.github.io/phone/index.html"/>
     <image:image>
       <image:loc>http://dotos.github.io/images/pot.png</image:loc>
     </image:image>
@@ -30,9 +31,6 @@
       <image:loc>http://dotos.github.io/images/56621267-efficiency-icon-vector-flat-icon-isolated-on-the-white-background-editable-eps-file-vector-illustrat.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dotos.github.io/images/dotspace@2x%20-%20copy.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dotos.github.io/images/29705874%20(1).png</image:loc>
     </image:image>
     <image:image>
@@ -52,6 +50,18 @@
     </image:image>
     <image:image>
       <image:loc>http://dotos.github.io/images/newt%20-%20copy%20(4).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dotos.github.io/images/dotos.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dotos.github.io/images/planet.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dotos.github.io/images/planet2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dotos.github.io/images/back%20space1181x760.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
