@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dotos.github.io" resolutions="1x" timestamp="1509013071233">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dotos.github.io" resolutions="1x" timestamp="1509013715703">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3995855925" ref="phone>index"/>
+      <file name="index.css" crc="3884791142" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4059908843" seo="true" mt="1509013000377" redirect="true"/>
+    <file name="index.html" crc="4143169446" seo="true" mt="1509013697237" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4233371317"/>
@@ -89,17 +89,11 @@
     <file name="minimal123x123.png" crc="292033632" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dotspace@2x - copy.jpg" crc="167129214" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="planet.png" crc="470648683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="planet2.png" crc="4228640976" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dotspace@2x - copy380x623.jpg" crc="4283713827" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="back space.jpg" crc="294589902" ref="index"/>
@@ -115,6 +109,9 @@
     <file name="planet194x194.png" crc="3822966702" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="dotspace@2x - copy.png" crc="4283713827" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4110311254" seo="true" mt="1509013067081" redirect="true"/>
+  <file name="index.html" crc="4110311254" seo="true" mt="1509013711957" redirect="true"/>
 </manifest>
